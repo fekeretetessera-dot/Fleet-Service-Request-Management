@@ -45,7 +45,7 @@ It reduces manual processing, improves data accuracy, and provides management wi
 
 ## Screenshots
 
-![Dashboard](Images/Dashboard.jpg)  
+![Dashboard](FleetServicePowerBIReport.jpg)  
 ![Request Form](Images/RequestForm.jpg)  
 ![Approval Workflow](Images/ApprovalWorkflow.jpg)  
 ![Power BI Report](Images/PowerBIReport.jpg)  
