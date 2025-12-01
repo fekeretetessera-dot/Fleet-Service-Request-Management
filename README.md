@@ -47,7 +47,7 @@ It reduces manual processing, improves data accuracy, and provides management wi
 
 ![Dashboard](FleetServicePowerBIReport.jpg)  
 ![Request Form](fleet service Request Management App .jpg)  
-![Approval Workflow](Images/ApprovalWorkflow.jpg)  
+![Approval Workflow](fleet-service-Approval-Flow.jpg)  
 ![Power BI Report](Images/PowerBIReport.jpg)  
 *Power BI dashboard showing request status, approval times, and procurement performance.*
 
